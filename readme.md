@@ -4,6 +4,10 @@
 
 O Podcast Manager é um aplicativo ao estilo Netflix, onde você pode centralizar diferentes episódios de podcasts separados por categorias. Ideal para organizar e assistir seus podcasts favoritos de vídeo.
 
+Projeto de WebApi utilizando Nodejs, Typescript e bibliotecas nativas do Node, sem utilização de framework.
+
+O foco do projeto, foi na criação de um servidor e como servir os dados, porém a destaque na arquitetura de camadas que o projeto foi desenvolvido, utilização de boas práticas e clareza do código.
+
 ## Features
 
 -   Listar os episódios de podcasts em seções de categorias
